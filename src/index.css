@@ -1,0 +1,15 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+}
+
+.app {
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	margin: 0 auto;
+	min-width: 580px;
+}
